@@ -12,7 +12,7 @@ In a previous life, I was trained and worked as a structural engineer, specializ
 While living in NYC, I became involved in the sustainable and ethical fashion movement through volunteering with [ProjectJUST](http://www.projectjust.com) and [Fashion Revolution USA](https://www.fashionrevolution.org/north-america/usa/). I immensely benefited from my interactions with everyone I met during that time, which lead me to rethink my career. I was no longer convinced about structural engineering, and found sustainable and ethical fashion to be, in Millenials terms, *a more meaningful direction to follow to have any kind of positive impact and change in the world we live in*. After a bit of soul searching, I found Operations Management to be at the crossroads of my background in engineering, and what I wanted to do in the future.
 
 
-### i'm so much more than just my research!
+### I'm so much more than just my research!
 Trying to change the world is great, but that's not all there is to life...
 <!-- 
 and pushing the boundaries of science 
