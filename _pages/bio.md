@@ -22,8 +22,8 @@ If I'm not behind a computer, there's a good chance I am cycling or skiing. I ha
 You may also occasionally find me running, and I take every opportunity to go hiking when close to mountains (in the summer months).
 
 <!-- Second to sports is cooking. To me, it is more than just a time to eat, they bring people together. I love to host, take the time to cook a good meal and everything around it: presentation, wine pairing (I like to pretend I know about wine), etc. -->
-And if I'm not doing any sports, I'm probably gone on an adventure or exploring, either locally in the cities I live in and their surroundings, or globally visiting other countries and cultures. (*Dutch update:* biking to the beach in the North Sea, (biking to) buying Gouda in Gouda, and (biking to) seeing a real-sized replica of Noah's arch near Dordrecht!). With the time that I have left, you will probably find me reading, cooking, learning something new
+And if I'm not doing any sports, I'm probably gone on an adventure or exploring, either locally in the cities I live in and their surroundings, or globally visiting other countries and cultures. (*Dutch update:* biking to the beach in the North Sea, (biking to) buying Gouda in Gouda, and (biking to) seeing a real-sized replica of Noah's arch near Dordrecht!). With the time that I have left, I like to read, cook, or learn something new. 
 
-Finally, I am passionate about mentoring and teaching. Back in the days, I taught english and skiing. More recently, my efforts were directed at promoting careers in STEM.
+Finally, I am passionate about mentoring and teaching. Back in the days, I taught English and skiing. More recently, my efforts were directed at promoting careers in STEM.
 
-Fun fact: although I am Canadian, I have never been to a hockey game (I also don't really follow...)
+<!-- Fun fact: although I am Canadian, I have never been to a hockey game (I also don't really follow...) -->
