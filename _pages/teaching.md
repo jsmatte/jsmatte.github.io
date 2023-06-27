@@ -12,7 +12,13 @@ nav_order: 4
 <h3 class="mt-4">McGill University</h3>
 <div class="card mt-3">
   <div class="p-3">
-    <h5 class="font-weight-bold">Operations Management</h5>
+    <h5 class="font-weight-bold">Business Statistics (MGCR 271)</h5>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer (Summer 2023)</h6>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <h5 class="font-weight-bold">Operations Management (MGCR 617)</h5>
     <h6 class="font-italic mt-2 mt-sm-0">Teaching Assistant (Fall 2020, Winter 2021, Fall 2021)</h6>
     Tutoring sessions and office hours for MBA and MMA students.
   </div>
