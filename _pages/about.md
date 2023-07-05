@@ -24,10 +24,10 @@ I am a PhD candidate in Operations Management at [Desautels Faculty of Managemen
 My research interests are in behavioural economics and sustainable operations, focusing on fashion retail. 
 <!-- I am interested in understanding how product variety affects consumer choices, and how fashion retailers can become more efficient at managing assortments and production quantities. I am also interested in studying the trade-offs that exist between the sunk cost of sustainable operations, increased consumer experience (in terms of willingness-to-pay), and increased quality of products put on the market, which would result in reduced consumption.
 Consequently,  -->
-I focus on **bridging theory and practice** by **developing data-driven modelling and optimization algorithms** to help fashion retailers move towards more sustainable operations by combining consumer behaviour, assortment and inventory optimization models, and Life Cycle Assessment (LCA) data.
+I focus on **bridging theory and practice** by **developing data-driven modelling and optimization algorithms** to help fashion retailers move towards less impactful operations by combining consumer behaviour, assortment and inventory optimization models, and Life Cycle Assessment (LCA) data.
 
 A main theme of my dissertation work is addressing the **overproduction** and consequential environmental issues the fashion industry created. In addition to putting immense pressure on the supply chain, **overproduction practices are creating a huge waste problem**.
-My goal is therefore to **promote a reduction of production** by more efficient management practices, and a transition to less environmentally impactful operations.
+My goal is therefore to **promote a reduction of production volumes** by more efficient management practices, and a transition to less environmentally impactful operations.
 Through my work, I am **contributing to GOAL 12** of the United Nations Sustainable Development Goals.
 
 <!-- For the next academic year, I will be visiting Rotterdam School of Management--Erasmus University where I will collaborate with Prof. Robert Rooderkerk! -->
