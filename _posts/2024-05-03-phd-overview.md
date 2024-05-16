@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: PhD Overview
 date: 2024-05-03 12:00:00
 description: An overview of my PhD work
@@ -9,13 +9,13 @@ categories: PhD
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/phd/project1.jpg" class="img-fluid rounded z-depth-1" zoomable=True %}
+        {% include figure.html path="assets/img/phd/project1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/phd/project2.jpg" class="img-fluid rounded z-depth-1" zoomable=True %}
+        {% include figure.html path="assets/img/phd/project2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/phd/project3.jpg" class="img-fluid rounded z-depth-1" zoomable=True %}
+        {% include figure.html path="assets/img/phd/project3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
