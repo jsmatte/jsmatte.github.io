@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: post
 title: PhD Overview
 date: 2024-05-03 12:00:00
 description: An overview of my PhD work
