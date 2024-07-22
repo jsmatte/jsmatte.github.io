@@ -193,6 +193,9 @@
           {%- if entry.preprint %}
             <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
           {%- endif %}
+          {%- if entry.osf %}
+            <a href="{{ entry.osf }}" class="btn btn-sm z-depth-0" role="button">OSF</a>
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}
