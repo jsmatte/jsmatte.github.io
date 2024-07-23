@@ -28,8 +28,8 @@ Consequently,  -->
 By leveraging my former experience as a design engineer and project manager in NYC, my personal interests in planetary health and fashion, combined with rigorous PhD training in statistical modelling and optimization, I am uniquely positioned to **bridge theory and practice**. 
 I develop **consumer-centric, data-driven models and prescriptive algorithms** to help fashion retailers **reduce the environmental impact** of their production.
 
-A main theme of my dissertation work is addressing the **overproduction** and consequential environmental issues the fashion industry created. In addition to putting immense pressure on the supply chain, **overproduction practices are creating a huge waste problem**.
-My goal is therefore to **promote a reduction of production volumes** through a deeper understanding of consumer behaviour and to more efficient management practices.
+The overarching theme of my dissertation work is addressing the **overproduction** and consequential environmental issues the fashion industry created. In addition to putting immense pressure on the supply chain, **overproduction practices are creating a huge waste problem**.
+My goal is therefore to **promote a reduction of production volumes through a deeper understanding of consumer behaviour and to more efficient management practices**.
 Through my work, I am **contributing to GOAL 12** of the United Nations Sustainable Development Goals.
 
 <!-- For the next academic year, I will be visiting Rotterdam School of Management--Erasmus University where I will collaborate with Prof. Robert Rooderkerk! -->
