@@ -19,7 +19,7 @@ and pushing the boundaries of science
 It is all too easy to get absorbed in your work, but it usually never results in anything good. I have been a victim of it in NYC, and again during my PhD (thanks to COVID lockdown, it was too easy to spend "just another hour" working). -->
 
 If I'm not behind a computer, there's a good chance I am cycling or skiing. I have spent more time on bikes and skis than I like to admit. I find the sensation of freedom it provides exhilarating. I used to compete in both, and aspired to become a professional skier. Somehow, I ended up un academia.
-You may also occasionally find me running, and I take every opportunity to go hiking when close to mountains (in the summer months).
+You may also occasionally find me running, and I take every opportunity to go hiking when close to mountains (in the summer months, during the winter, mountains are for skiing, obviously).
 
 <!-- Second to sports is cooking. To me, it is more than just a time to eat, they bring people together. I love to host, take the time to cook a good meal and everything around it: presentation, wine pairing (I like to pretend I know about wine), etc. -->
 And if I'm not doing any sports, I'm probably gone on an adventure or exploring, either locally in the cities I live in and their surroundings, or globally visiting other countries and cultures. 
