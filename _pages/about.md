@@ -30,7 +30,7 @@ I develop **data-driven models and prescriptive algorithms** to help fashion ret
 <!-- consumer-centric,  -->
 
 The overarching theme of my dissertation work is addressing the **overproduction** and consequential environmental issues the fashion industry created. In addition to putting immense pressure on the supply chain, **overproduction practices are creating a huge waste problem**.
-My goal is therefore to **promote a reduction of environmental impacts and production volumes through a deeper understanding of consumer behaviour and to more efficient management practices**.
+My goal is therefore to **promote a reduction of environmental impacts and production volumes through a deeper understanding of consumer behaviour, innovative textile solutions, efficient management practices, and education**.
 Through my work, I am **contributing to GOAL 12** of the United Nations Sustainable Development Goals.
 
 <!-- For the next academic year, I will be visiting Rotterdam School of Management--Erasmus University where I will collaborate with Prof. Robert Rooderkerk! -->
